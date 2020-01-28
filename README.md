@@ -34,14 +34,22 @@ Folder somewhere
  * bin
  * pkg
  * src
-     * github.com
+     * github.com domain
      * username --> get repo with go get
-  
+        * repo
 
 ## Commands - $ go help
 
 1. go fmt --> formats code
-2. go run --> just runs file
-3. go buit --> builds
-4. go install --> installs in workspace/bin
-5. flags
+1. go run --> just runs file
+1. go buit --> builds
+1. go install --> installs in workspace/bin
+1. flags
+
+
+### Go Modules
+* go mod init --> example.com/username/repo "this is the space i am working in" (like package.json)
+* go test --> see if all still works
+go list -m all --> see all dependencies
+
+
