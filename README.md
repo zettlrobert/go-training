@@ -60,3 +60,12 @@ godoc.org
 - static Programming Language
 - can create own type
 - conversion not casting!
+
+#### bool
+boolean can either be true or false
+
+#### int
+integer no decimal point
+
+#### float64
+float has decimal points

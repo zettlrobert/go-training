@@ -6,7 +6,7 @@ type zerodev int
 
 var x zerodev
 
-func main() {
+func four() {
 	fmt.Println(x)
 	fmt.Printf("%T", x)
 	x = 42

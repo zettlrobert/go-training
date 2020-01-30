@@ -7,7 +7,7 @@ type zerodev int
 var x zerodev
 var y int
 
-func main() {
+func five() {
 	fmt.Println(x)
 	fmt.Printf("%T", x)
 	x = 42
