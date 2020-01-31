@@ -66,6 +66,10 @@ boolean can either be true or false
 
 #### int
 integer no decimal point
+ * uint
+ * int
+ * uintptr
 
 #### float64
 float has decimal points
+
