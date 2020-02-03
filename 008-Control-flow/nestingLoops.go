@@ -11,4 +11,6 @@ func main() {
 			fmt.Printf("\t\t The inner loop: %d\n", j)
 		}
 	}
+
+	fmt.Println("done")
 }
