@@ -73,3 +73,9 @@ integer no decimal point
 #### float64
 float has decimal points
 
+
+### Control flow
+* seqeunce 
+* loop itterative
+* conditional
+
