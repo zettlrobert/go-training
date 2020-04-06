@@ -2,6 +2,8 @@
 
 ![cover](docs/cover.png)
 
+repository for learning go, my notes as well as exercises I completed.
+
 ## Ressources
 
 **[Golang Language Specs](https://golang.org/ref/spec)** Offical Specs
