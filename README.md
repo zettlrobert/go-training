@@ -1,5 +1,7 @@
 # Learning Go Lang
 
+![cover](docs/cover.png)
+
 ## Ressources
 
 **[Golang Language Specs](https://golang.org/ref/spec)** Offical Specs
